@@ -6,8 +6,8 @@ terraform {
     }
   }
   backend "s3" {
-    bucket = "jenka-bucket"
+    bucket = "pgr301-2021-terraform-state"
     key    = "jeje004/06-terraform-intro.state"
-    region = "eu-west-1"
+    region = "eu-north-1"
   }
 }
