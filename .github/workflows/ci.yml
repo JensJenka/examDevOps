@@ -1,4 +1,4 @@
-#Continious Integration
+#CI = Continious Integration
 
 name: Java CI with Maven
 on:
