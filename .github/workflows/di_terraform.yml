@@ -1,5 +1,5 @@
 #docker image and terraform
-name: Publish Docker image
+name: Terraform and publish Docker image
 
 on:
   push:
